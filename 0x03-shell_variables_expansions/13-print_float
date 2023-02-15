@@ -1,0 +1,2 @@
+#!/bin/ban
+printf'%.2f\n'$NUM
