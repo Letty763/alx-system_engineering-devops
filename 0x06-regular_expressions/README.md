@@ -1,0 +1,1 @@
+This project, "0x06 Regular Expressions," is part of the Holberton School curriculum and focuses on understanding and working with regular expressions in Python. Regular expressions are powerful tools for pattern matching and text manipulation. In this project, you will learn how to use regular expressions to solve various text-related problems and tasks.
