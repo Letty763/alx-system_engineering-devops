@@ -1,0 +1,1 @@
+This project, 0x08 Networking Basics 2, is part of a series of tasks designed to help you understand and master the fundamentals of networking. In this specific project, you will dive deeper into networking concepts and protocols, building upon the knowledge gained in previous tasks.
