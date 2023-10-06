@@ -1,0 +1,1 @@
+This project explores the fundamental concepts of networking. From understanding the OSI model to configuring network devices, this repository serves as a comprehensive resource for anyone looking to delve into networking basics.
