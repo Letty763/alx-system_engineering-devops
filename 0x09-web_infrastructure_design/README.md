@@ -1,0 +1,1 @@
+This project is dedicated to understanding and designing web infrastructure. Whether you're a seasoned web developer or just starting out, this repository will help you dive deep into the world of web infrastructure design.
